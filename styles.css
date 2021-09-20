@@ -1,0 +1,54 @@
+h1 {
+    color: darkolivegreen;
+    font-size: 40px;
+    font-family: cursive, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    background-color: hotpink;
+}
+
+h2 {
+    color: lightblue;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    background-color: mediumslateblue;
+}
+
+h3 {
+    color: fuchsia;
+    font-size: 40px;
+    font-family: Impact, sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+ul, ol {
+    color: indigo;
+    font-size: 14px;
+    font-family: "Trebuchet MS", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    background-color: lightslategray;
+}
+
+ol {
+    text-align: left;
+}
+
+p {
+    color: indigo;
+    font-size: 16px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightcoral;
+}
+
+.plain {
+    font-family: "cursive", sans-serif;
+    font-size: 18px;
+    color: hotpink;
+
+}
